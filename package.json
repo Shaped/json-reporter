@@ -1,0 +1,20 @@
+{
+	"name": "@shaped/json-reporter",
+	"version": "0.1.1-alpha",
+	"description": "json reporter for nodejs",
+	"type": "module",
+	"author": {
+		"name": "forbiddenera",
+		"company": "Shaped",
+		"email": "jason@shaped.ca",
+		"url": "https://github.com/Shaped/json-reporter/"
+	},
+	"main": "src/main.js",
+	"scripts": {
+		"test": "npm test"
+	},
+	"engines": {
+		"node": ">=19.8.1",
+		"npm": ">=9.5.1"
+	}
+}
