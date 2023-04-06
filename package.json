@@ -1,8 +1,10 @@
 {
 	"name": "@shaped/json-reporter",
 	"version": "0.1.1-alpha",
-	"description": "json reporter for nodejs",
+	"description": "json output reporter for nodejs built in test runner (node:test)",
+	"keywords":"node test runner json convert export reporter",
 	"type": "module",
+	"license":"MIT",
 	"author": {
 		"name": "forbiddenera",
 		"company": "Shaped",
