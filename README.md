@@ -25,7 +25,7 @@ You can also set `--test-reporter-destination` to a file to have the output save
 From Code when using the `run()` method of `node:test`, piped to `stdout`:
 
 ```javascript
-import jsonReporter from '@paytrie/json-reporter';
+import jsonReporter from '@shaped/json-reporter';
 
 run({ files: [
 		path.resolve('./test/your_test_script.js')
